@@ -1,0 +1,23 @@
+{
+  "name": "test_developer",
+  "version": "1.0.0",
+  "description": "Test full-stack developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "unit",
+    "test"
+  ],
+  "author": "gjimenez",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.5",
+    "babel-jest": "^27.0.2",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^27.0.4"
+  }
+}
